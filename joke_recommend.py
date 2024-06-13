@@ -1,7 +1,4 @@
 # %%
-!featurize dataset download 910888ea-f616-4cd9-bfd1-4acc754d6fae
-
-# %%
 !pip install fastai
 
 # %%
